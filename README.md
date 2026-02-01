@@ -1,2 +1,3 @@
-# rust_template
-Rust project template, this is my personal way of work
+# RNS-TPU
+
+Trying to run RNS computations on TPU
